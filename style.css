@@ -1,0 +1,35 @@
+h1,h2,h3{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+body{
+    background-color: black;
+}
+.copyright{
+    text-align: right;
+    color: gray;
+    font-weight: bold;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.tagline{
+    font-weight: normal;
+    font-size: 50px;
+}
+.d{
+    color: aquamarine;
+    font-size: 16px;
+}
+.tag2{
+    color:gray;
+    font-size: 21px;
+}
